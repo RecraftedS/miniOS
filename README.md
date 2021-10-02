@@ -1,25 +1,20 @@
-# mini-OS
-the mini computer that runs in your browser!
-
 # miniOS
 
 ## About
 
-This is the github repository for Pingüino, a indie game made for the Wowie Jam 3.0 "Failure is Progress"
-If you don't know what Pingüino is, its basically a cute penguin run and jump game where instead of collecting the fish you most avoid the fish or you become to fat and die...
-
-**In the time of me updating this the game is in very good state and is being constantly worked on!  :D**
+This is the github repository for miniOS, the mini computer that runs in your browser!
+If you don't know what miniOS is, its basically a computer simulator based on windows 10
 
 ##  Permissions
 
-You can do whatever you want with game; you can mod it, make videos about it, stream it, meme it, distribute or sell mods, and basically anyhting else that comes to mind. just make to give the boi a little credit (a link would be nice) 
+You can almost do whatever you want with this; you can mod it, make videos about it, stream it, meme it, just make to give the boi a little credit (a link would be nice) 
 
 
 ## Where to Play
 
-This game is available to play at itch.io, Newgrounds, and Game Jolt: 
+This simultaion is available to play at itch.io, Newgrounds, and Game Jolt: 
 
-https://recrafted-studios.itch.io/pingino
+https://recrafted-studios.itch.io/mini-os
 
 https://www.newgrounds.com/portal/view/782791
 
