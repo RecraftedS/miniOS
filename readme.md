@@ -12,10 +12,6 @@ You can almost do whatever you want with this; you can mod it, make videos about
 
 ## Where to Play
 
-This simultaion is available to play at itch.io, Newgrounds, and Game Jolt: 
+This game is currently available to play at itch.io only but, Newgrounds and Game Jolt ports are coming soon
 
 https://recrafted-studios.itch.io/mini-os
-
-https://www.newgrounds.com/portal/view/782791
-
-https://gamejolt.com/games/Pinguino/601562
