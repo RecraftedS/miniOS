@@ -1,12 +1,12 @@
 # Changelog
 
 
-## v0.0.2 **[Not Released Yet]**
-Added: Very Cool Music to Vibe To,
+## v0.0.2
+Added: Very cool lock screen music to vibe to, Some subtle animations
 
-Fixed: Positioning of some objects
+Fixed: Positioning of some object
 
-Changed: n/a
+Changed: Upgraded the account settings, Enchanced some of the graphics, App launching animation
 
 ## v0.0.1
 Added: Everything :)
